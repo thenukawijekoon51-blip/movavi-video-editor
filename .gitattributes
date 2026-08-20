@@ -1,0 +1,7 @@
+*.rs linguist-detectable
+vendor/* linguist-vendored
+* text=auto
+public/* linguist-vendored
+public/index.html linguist-vendored
+src/**/*.rs linguist-detectable
+# eof 9e8e63e4
